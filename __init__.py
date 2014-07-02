@@ -21,7 +21,13 @@
 # with this program; if not, write to the Free Software Foundation, Inc.,
 # 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA.
 #
-"""Implement dummies."""
+"""Implement dummies.
+
+Dummies can have many practical uses, for example if several functions can be
+chosen for a certain task (just think of filter functions), or if a function or
+class of a third party module is not available. To not have to implement
+dummies over and over again (how ever short they are), I wrote this collection
+of dummy Python objects."""
 __created__ = '2013-07-13'
 __modified__ = '2013-07-24'
 

@@ -4,7 +4,6 @@ dummy
 Implement dummies.
 
 
-
 Copyright notice
 ----------------
 
